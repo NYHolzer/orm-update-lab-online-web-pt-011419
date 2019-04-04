@@ -63,7 +63,9 @@ class Student
     new_student = self.new(row[0], row[1], row[2])
   end 
   
-  
+  def find_by_name 
+    
+  end 
 end
 
 
