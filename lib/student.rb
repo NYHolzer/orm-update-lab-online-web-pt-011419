@@ -59,6 +59,11 @@ class Student
     new_student
   end 
   
+  def new_from_db (row)
+    
+  end 
+  
+  
 end
 
 
